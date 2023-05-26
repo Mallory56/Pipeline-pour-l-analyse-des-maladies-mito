@@ -108,3 +108,8 @@ Lancer depuis un terminal les commandes suivantes :
 - Création de l'image docker : sh mito.sh
 - Vérification du nom du conteneur crée : docker ps 
 - Lancement du conteneur docker : docker run -it (nom du conteneur crée)  /bin/bash
+
+### data test 
+
+Il est possible de tester le pipeline et les différentes étapes grâces au data test inclues dans le github.
+
